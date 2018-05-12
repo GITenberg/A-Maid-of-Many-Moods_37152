@@ -1,0 +1,31 @@
+_repo: A-Maid-of-Many-Moods_37152
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37152-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Sheard, Virna
+    alias: Sheard, Virginia Stanton
+    birthdate: 1864
+    deathdate: 1943
+    gutenberg_agent_id: '3662'
+    url: http://www.gutenberg.org/2009/agents/3662
+description: ''
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+- !lcsh 'Christmas stories'
+- !lcc 'PS'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Fiction'
+- !lcsh 'Young women -- Fiction'
+title: A Maid of Many Moods
+url: http://www.gutenberg.org/ebooks/37152
